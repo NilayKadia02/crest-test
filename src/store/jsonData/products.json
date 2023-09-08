@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "label": "Xiomi",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+    "limit": 2,
+    "price": 50,
+    "ram": "8 GB",
+    "cam": "50 M",
+    "storage": "128 GB",
+    "processor": "SD 888",
+    "rating": "5"
+  },
+  {
+    "id": 2,
+    "label": "Motorola",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+    "limit": 2,
+    "price": 40,
+    "ram": "16 GB",
+    "cam": "100 M",
+    "storage": "256 GB",
+    "processor": "SD 777",
+    "rating": "4"
+  },
+
+  {
+    "id": 3,
+    "label": "Samsung",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+    "limit": 2,
+    "price": 80,
+    "ram": "16 GB",
+    "cam": "100 M",
+    "storage": "256 GB",
+    "processor": "SD 777",
+    "rating": "4"
+  },
+  {
+    "id": 4,
+    "label": "Apple",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+    "limit": 2,
+    "price": 90,
+    "ram": "8 GB",
+    "cam": "50 M",
+    "storage": "128 GB",
+    "processor": "SD 888",
+    "rating": "5"
+  },
+  {
+    "id": 5,
+    "label": "Vivo",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+    "limit": 2,
+    "price": 40,
+    "ram": "16 GB",
+    "cam": "100 M",
+    "storage": "256 GB",
+    "processor": "SD 777",
+    "rating": "4"
+  },
+  {
+    "id": 6,
+    "label": "Oppo",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+    "limit": 2,
+    "price": 10,
+    "ram": "8 GB",
+    "cam": "50 M",
+    "storage": "128 GB",
+    "processor": "SD 888",
+    "rating": "5"
+  }
+]

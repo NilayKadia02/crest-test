@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "inventory":50
+    },
+    {
+        "id":2,
+        "inventory":50
+    },
+    {
+        "id":3,
+        "inventory":50
+    },
+    {
+        "id":4,
+        "inventory":50
+    },
+    {
+        "id":5,
+        "inventory":50
+    },
+    {
+        "id":6,
+        "inventory":50
+    },
+    {
+        "id":7,
+        "inventory":50
+    }
+]
